@@ -24,7 +24,7 @@ public class SelTest {
 	@Test
 	public void validateAboutPage() throws Exception {
 		System.out.println("Opening Browser");
-		String s="http://172.31.43.5:80";
+		String s="http://3.20.238.222:80";
 		
 		driver.get(s);
 				
