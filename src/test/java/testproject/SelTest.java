@@ -8,7 +8,7 @@ import org.testng.AssertJUnit;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-//test file -updated on 7th June
+//test file -updated on 7th June for pipeline
 public class SelTest {
 	
 	WebDriver driver;
