@@ -8,7 +8,7 @@ import org.testng.AssertJUnit;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-//File updated on 7th June - URl updated for PHP site according to puppet agent machine
+//File updated on 7th June - URL updated for PHP site
 public class SelTest {
 	
 	WebDriver driver;
