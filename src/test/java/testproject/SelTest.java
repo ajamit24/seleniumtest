@@ -24,7 +24,8 @@ public class SelTest {
 	@Test
 	public void validateAboutPage() throws Exception {
 		System.out.println("Opening Browser");
-		String s="http://18.217.205.138:80";
+		//Puppet agent machine IP
+		String s="http://18.188.164.118:80";
 		
 		driver.get(s);
 				
