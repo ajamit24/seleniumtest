@@ -8,7 +8,7 @@ import org.testng.AssertJUnit;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-//File updated on 8th July - URL updated for PHP
+//File updated on 8th July
 public class SelTest {
 	
 	WebDriver driver;
